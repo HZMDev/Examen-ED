@@ -17,6 +17,8 @@ public class EDMenuPrincipal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Prueba
+        
         
         Scanner teclado=new Scanner(System.in);
         System.out.println("Introduce una opcion");
